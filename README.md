@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome 👋
+--> Take your time and look around.
 <!--
 **Valery91-qw/Valery91-qw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
